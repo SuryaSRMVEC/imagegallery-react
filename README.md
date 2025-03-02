@@ -12,7 +12,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/wildlife-image-gallery.git
+git clone https://github.com/SuryaSRMVEC/imagegallery-react.git
 Navigate to the project folder:
 bash
 Copy
